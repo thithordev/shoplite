@@ -1,0 +1,11 @@
+# Test configuration for ShopLite
+serverPort: "8081"
+database:
+  host: "localhost"
+  port: "5432"
+  user: "postgres"
+  password: "postgres"
+  name: "shoplite_test"
+  sslmode: "disable"
+  # Optional: set a separate schema. Uncomment to use a schema instead of a separate DB
+  # schema: "shoplite_test"

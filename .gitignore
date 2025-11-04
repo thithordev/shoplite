@@ -24,7 +24,7 @@ package-lock.json
 yarn.lock
 
 # IDEs
-# .vscode/
+.vscode/
 .idea/
 *.swp
 *.swo
